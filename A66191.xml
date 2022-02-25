@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66191</idno>
+            <idno type="STC">Wing W2435</idno>
+            <idno type="STC">ESTC R39760</idno>
+            <idno type="EEBO-CITATION">18483296</idno>
+            <idno type="OCLC">ocm 18483296</idno>
+            <idno type="VID">107847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1644:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the executrix of Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695/6 [i.e. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Kensington, the twenty second day of March, 1695/6. In the eighth year of our reign."</note>
+                  <note>Order for the arrest of George Barclay and others involved in assassination plot against William III.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Assassination attempt, 1696.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:107847:1"/>
+            <!-- PDF PAGE 2 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King, A PROCLAMATION.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas Our Royal Proclamation, bearing Date on the Twenty third Day of <hi>February</hi> laſt, Iſſued for the Apprehending ſeveral Perſons therein Named, who, with divers other Wicked and Trai<g ref="char:EOLhyphen"/>terous Perſons, had Entred into a Horrid and Deteſtable Conſpiracy, to Aſſaſſinate and Bur<g ref="char:EOLhyphen"/>ter Our Royal Perſon; ſeveral of which Perſons have been ſince Apprehended, and ſome of them have Suffered the Iuſt Puniſhment of the Law, for ſuch their Horrid and Wicked Conſpiracy, and others remain yet Vndiſcovered (<hi>Viz.</hi>) Sir <hi>George Barclay,</hi> who is a Lieutenant of the late King <hi>James's</hi> Guards in <hi>France,</hi> a Tall thin Man, about the Age of Sixty Years, of a Ruddy Complexion, is Lame of his Right Hand; Major <hi>Lowick,</hi> a Tall Lean Straight Bodied Man, of a Sanguine Complexion, the upper part of his Cheek Bones pretty high, with a falling in juſt upon the Iaws. <hi>Dinant,</hi> Major <hi>George Holmes, Durant</hi> a Waloon, <hi>Cran<g ref="char:EOLhyphen"/>burne, Bryerly, Rookwood,</hi> a Brigadier in the late King <hi>James's</hi> Guards in <hi>France; Chambers,</hi> who has a hurt in his Hand, and was formerly taken on Board a <hi>French</hi> Privateér, <hi>Davies:</hi> And whereas We have ſince the Iſſuing out Our ſaid Proclama<g ref="char:EOLhyphen"/>tion, Received further Information, of ſeveral other Perſons herein after Named, who were concerned in the ſaid Horrid and Deteſtable Conſpiracy; for which Cauſe ſeveral Warrants of High Treaſon have Iſſued againſt them, but they have withdrawn themſelves from their uſual Places of Abode, and are fled from Iuſtice: We therefore (with the Advice of Our Privy Council) have thought fit to Iſſue this Our Royal Proclamation, hereby Commanding and Requiring all Our Loving Subjects to Diſcover, Take and Apprehend the Perſons above-named, and alſo Father <hi>Johnſon <hi>alias</hi> Harriſon,</hi> a Prieſt, who is a Short, Black, Full-bodied Man, his Eyes ſtanding a little out of his Head, Aged about Forty Years, <hi>Bernardi, Hare, Harris, Counter <hi>alias</hi> Rumſey, Hungate <hi>alias</hi> Rogers,</hi> where<g ref="char:EOLhyphen"/>ever they may be found, and to Carry them before the next Iuſtice of Peace, or Chief Magiſtrate, who is hereby Requir'd to Commit them to the next Goal, there to Remain until they be thence Delivered by due Courſe of Law. And We do here<g ref="char:EOLhyphen"/>by Require the ſaid Iuſtice or other Magiſtrate, immediately to give Notice thereof to Vs or Our Privy Council. And for Prevention of the going of the ſaid Perſons, or of any other, into <hi>Ireland,</hi> or other Parts beyond the Seas, We do Require and Command all Our Officers of the Cuſtoms, and other Our Officers and Subjects of, and in the reſpective Ports and Maritime Towns, and Places within Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> That they, and every of them, in their reſpective Stations and Places, be Careful and Diligent in the Examination of all Perſons who ſhall Paſs, or endeavour to Paſs, beyond the Seas; and that they do not permit any Perſon whatſoever to go into <hi>Ireland,</hi> or other Places beyond the Seas, without a Paſs under Our Royal Sign Manual, until further Order. And if they ſhall Diſcover the ſaid Perſons above-named, or any of them, then to cauſe them to be Apprehended and Secured, and to give Notice, as aforeſaid. And We do hereby Publiſh and Declare, That whoſoever ſhall Conceal the Per<g ref="char:EOLhyphen"/>ſons above-named, or any of them, or be Aiding and Aſſiſting in the Concealing of them, or Furthering their Eſcape, ſhall be, for ſuch their Offence, Proceeded againſt with the utmoſt Severity according to Law. And for the Encourage<g ref="char:EOLhyphen"/>ment of all Perſons to be Diligent and Careful in endeavouring to Diſcover and Apprehend the ſaid Perſons, We do hereby further Declare, That Whoſoever ſhall Diſcover and Apprehend the Perſons above-named, Who were mentioned in Our ſaid former Proclamation, or any of them, and ſhall bring them before ſome Iuſtice of Peace, or Chief Magiſtrate, as afore<g ref="char:EOLhyphen"/>ſaid ſhall Have and Receive, as a Reward, the Sum of One thouſand Pounds promiſed by Our ſaid Proclamation; which ſaid Sum of One thouſand Pounds, the Lords Commiſſioners of Our Treaſury are hereby Required and Directed to Pay accordingly. And We do hereby alſo further Declare, That whoſoever ſhall Diſcover and Apprehend the Perſons above-named who were not mentioned in Our ſaid former Proclamation, or any of them, and ſhall bring them before ſome Iuſtice of Peace or Chief Magiſtrate, as aforeſaid, ſhall Have and Receive as a Reward, the like Sum of One thouſand Pounds, to be Paid in ſuch manner, as aforeſaid. And if any of the Perſons abobe-named ſhall Diſcover and Apprehend the ſaid Sir <hi>George Barclay, Johnſon <hi>alias</hi> Harriſon,</hi> Major <hi>Lowick</hi> and Major <hi>George Holmes,</hi> or any of them, ſo as they may be brought to Iuſtice, We do hereby Declare, That every Perſon making ſuch Diſcovery, ſhall have Our Gracious Pardon for his Of<g ref="char:EOLhyphen"/>fence, and ſhall Receive the Reward of One thouſand Pounds, to be Paid in ſuch manner as aforeſaid.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Kenſington,</hi> 
+                     <date>the Twenty ſecond Day of <hi>March,</hi> 1695/6. In the Eighth Year of Our Reign.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1695/6.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
